@@ -1,0 +1,10 @@
+C:\Users\05061832121\Desktop\KitapYönetimSistemi\obj\Debug\KitapYönetimSistemi.csproj.AssemblyReference.cache
+C:\Users\05061832121\Desktop\KitapYönetimSistemi\obj\Debug\BookManagementSystem.Form1.resources
+C:\Users\05061832121\Desktop\KitapYönetimSistemi\obj\Debug\KitapYönetimSistemi.Properties.Resources.resources
+C:\Users\05061832121\Desktop\KitapYönetimSistemi\obj\Debug\KitapYönetimSistemi.csproj.GenerateResource.cache
+C:\Users\05061832121\Desktop\KitapYönetimSistemi\obj\Debug\KitapYönetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\05061832121\Desktop\KitapYönetimSistemi\bin\Debug\KitapYönetimSistemi.exe.config
+C:\Users\05061832121\Desktop\KitapYönetimSistemi\bin\Debug\KitapYönetimSistemi.exe
+C:\Users\05061832121\Desktop\KitapYönetimSistemi\bin\Debug\KitapYönetimSistemi.pdb
+C:\Users\05061832121\Desktop\KitapYönetimSistemi\obj\Debug\KitapYönetimSistemi.exe
+C:\Users\05061832121\Desktop\KitapYönetimSistemi\obj\Debug\KitapYönetimSistemi.pdb
